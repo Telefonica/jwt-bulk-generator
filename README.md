@@ -37,4 +37,4 @@ Opciones:
 
 ## Using templates
 
-See working examples at the examples directory. Note that the script will substitute, for each token, the appearance of {{{uuid}}} with a freshly generated uuid.v4() and {{{phone}}} with a freshly generated 9 digits-long phone number.
+See working examples at the examples directory. Note that the script will substitute, for each token, the appearance of ```{{{uuid}}}``` with a freshly generated uuid.v4() and ```{{{phone}}}``` with a freshly generated 9 digits-long phone number.
