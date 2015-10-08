@@ -1,6 +1,6 @@
 # jwt-bulk-generator
 
-This is a script to generate [JWTs](http://jwt.io/) and store them in a file. Each JWT is store in a new line within the file.
+This is a script to generate [JWTs](http://jwt.io/) and store them in a file. Each JWT is stored in a new line within the file.
 
 ## Installation
 
