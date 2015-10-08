@@ -24,7 +24,7 @@ node lib/jwt-bulk-generator.js -n 1000 -p examples/payload.json -k examples/key.
 Script options are the following:
 
 ```sh
-Opciones:
+Options:
   -n, --number       Number of JWTs to generate
   -p, --payloadFile  File where the input token payload is stored
   -k, --keyFile      File where the key is stored
