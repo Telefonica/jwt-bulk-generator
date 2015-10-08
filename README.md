@@ -1,12 +1,12 @@
 # jwt-bulk-generator
 
-This is a script to generate [JWTs](http://jwt.io/) and store them in a file.
+This is a script to generate [JWTs](http://jwt.io/) and store them in a file. Each JWT is store in a new line within the file.
 
 ## Installation
 
 Prerequisites:
 
-* Node JS 0.10.26 or higher (see NodeJS).
+* Node JS 0.10.26 or higher.
 * Tools: git and npm.
 
 ```sh
