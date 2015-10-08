@@ -1,0 +1,41 @@
+{
+  "name": "jwt-bulk-generator",
+  "description": "A script to generate a lot of valid JWTs",
+  "version": "0.1.0",
+  "license": "Apache-2.0",
+  "author": {
+    "name": "David Lozano",
+    "email": "david.lozanollanos@telefonica.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:TDAF/jwt-bulk-generator.git"
+  },
+  "main": "lib/jwt-bulk-generator",
+  "engines": {
+    "node": ">= 0.10.26"
+  },
+  "devDependencies": {
+    "chai": "^3.0.0",
+    "coveralls": "^2.11.2",
+    "istanbul": "^0.3.16",
+    "mocha": "^2.2.5",
+    "proxyquire": "^1.5.0",
+    "should": "^7.0.1",
+    "sinon": "~1.15.3",
+    "sinon-chai": "^2.8.0",
+    "supertest": "^1.0.1",
+    "xunit-file": "^0.0.6",
+    "jscs": "^1.13.1",
+    "eslint": "^0.23.0"
+  },
+  "dependencies": {
+    "jwt-utils": "^1.0.3",
+    "uuid": "^2.0.1",
+    "yargs": "^3.27.0"
+  },
+  "keywords": [
+    "jwt",
+    "bulk"
+  ]
+}

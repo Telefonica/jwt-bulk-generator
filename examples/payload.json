@@ -1,0 +1,7 @@
+{
+  "nonce": "{{{uuid}}}",
+  "iss": "issuer_for_your_app",
+  "redirect_uri": "http://localhost:3210",
+  "aud": "http://localhost:4050/mba/authenticate",
+  "login_hint": "{{{phone}}}"
+}
